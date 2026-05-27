@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordervarse",
+        "uuid": 20763840,
+        "checksum": "kihufq"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
